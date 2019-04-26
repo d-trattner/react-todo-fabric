@@ -109,8 +109,8 @@ export default class ItemList extends Component<{}, IItemListState> {
         key: "done",
         name: "Done",
         fieldName: "done",
-        minWidth: 100,
-        maxWidth: 200,
+        minWidth: 50,
+        maxWidth: 50,
         isResizable: true
       }
     ];
